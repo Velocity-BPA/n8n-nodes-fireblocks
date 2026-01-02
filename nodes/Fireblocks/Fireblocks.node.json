@@ -1,0 +1,22 @@
+{
+  "node": "n8n-nodes-base.fireblocks",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": ["Finance & Accounting"],
+  "resources": {
+    "credentialDocumentation": [
+      {
+        "url": "https://docs.fireblocks.com/api/#authentication"
+      }
+    ],
+    "primaryDocumentation": [
+      {
+        "url": "https://docs.fireblocks.com/api/"
+      }
+    ]
+  },
+  "alias": ["fireblocks", "custody", "crypto", "wallet", "mpc", "vault", "digital assets", "blockchain"],
+  "subcategories": {
+    "Finance & Accounting": ["Crypto"]
+  }
+}

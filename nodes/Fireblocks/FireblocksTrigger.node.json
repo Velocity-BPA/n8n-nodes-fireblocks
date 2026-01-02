@@ -1,0 +1,22 @@
+{
+  "node": "n8n-nodes-base.fireblocksTrigger",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": ["Finance & Accounting"],
+  "resources": {
+    "credentialDocumentation": [
+      {
+        "url": "https://docs.fireblocks.com/api/#webhooks"
+      }
+    ],
+    "primaryDocumentation": [
+      {
+        "url": "https://docs.fireblocks.com/api/#webhooks"
+      }
+    ]
+  },
+  "alias": ["fireblocks", "webhook", "trigger", "custody", "crypto", "transaction"],
+  "subcategories": {
+    "Finance & Accounting": ["Crypto"]
+  }
+}
