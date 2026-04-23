@@ -2,7 +2,7 @@
   "name": "n8n-nodes-fireblocks",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for Fireblocks institutional digital asset custody platform providing 15 resources and 100+ operations for vault management, transactions, staking, NFTs, smart contracts, and more.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -76,7 +76,7 @@
     "eslint-plugin-n8n-nodes-base": "^1.16.1",
     "gulp": "^4.0.2",
     "jest": "^29.7.0",
-    "n8n-workflow": "^1.20.0",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.1.1",
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.1",
